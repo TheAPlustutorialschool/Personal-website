@@ -252,13 +252,13 @@
 
 @media (max-width: 575px) {
    .u-section-1 {
-    min-height: 1138px;
+    min-height: 1234px;
   }
 
   .u-section-1 .u-image-1 {
     width: 167px;
     height: 167px;
-    margin-top: -18px;
+    margin-top: 79px;
     margin-right: calc(((100% - 340px) / 2)  + -38px);
   }
 
@@ -308,9 +308,9 @@
 
   .u-section-1 .u-text-4 {
     font-size: 1.5rem;
-    margin-top: -1085px;
-    margin-right: calc(((100% - 340px) / 2)  + 108px);
-    margin-left: calc(((100% - 340px) / 2)  + 12px);
+    margin-top: -1162px;
+    margin-right: calc(((100% - 340px) / 2)  + 120px);
+    margin-left: calc(((100% - 340px) / 2));
   }
 }
 
